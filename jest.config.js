@@ -15,4 +15,4 @@ module.exports = {
     '^element-ui(.*)$': '<rootDir>$1',
     '^main(.*)$': '<rootDir>/src$1'
   }
-}
+};
